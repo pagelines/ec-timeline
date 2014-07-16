@@ -86,8 +86,8 @@ In each "event" you have 5 options to play with:
 * Event title
 * Event Description (Support Shortcodes).
 * Icon
-* Event Date (Optional)
-* Event Time (Optional)
+* Event Date **(Optional)**
+* Event Time **(Optional)**
 
 
 ![Timeline Edit][6]
@@ -99,8 +99,8 @@ If you need further support please add a post in the [PageLines Forum][7] adding
   [1]: http://www.pagelines.com/shop/core/dms/
   [2]: https://www.pagelines.com/my-account/
   [3]: http://enriquechavez.co/wp-content/uploads/2014/07/pin-switch-reload.png
-  [4]: http://enriquechavez.co/wp-content/uploads/2014/07/pin-switch-icon.png
-  [5]: http://enriquechavez.co/wp-content/uploads/2014/07/pin-switch-edit.png
-  [6]: http://enriquechavez.co/wp-content/uploads/2014/07/pin-switch-options.png
+  [4]: http://enriquechavez.co/wp-content/uploads/2014/07/timeline-icon.png
+  [5]: http://enriquechavez.co/wp-content/uploads/2014/07/timeline-edit.png
+  [6]: http://enriquechavez.co/wp-content/uploads/2014/07/timeline-options.png
   [7]: http://forum.pagelines.com/forum/87-products-by-enrique/
-  [8]: http://enriquechavez.co/wp-content/uploads/2014/07/pinswitch-documentation.pdf
+  [8]: http://enriquechavez.co/wp-content/uploads/2014/07/timeline-documentation.pdf
